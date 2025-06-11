@@ -1,2 +1,3 @@
 # clase02-2bim
-image.png
+
+![alt text](image.png)
